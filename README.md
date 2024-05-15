@@ -5,11 +5,11 @@
 # 💫 About Me:
 Hello! I'm passionate about Python programming, particularly in the realms of machine learning, image detection, and AI. I bring some experience working with OpenCV, TensorFlow, and PyTorch. Additionally, I'm skilled in C++ and have some experience with JavaScript, React, HTML, and CSS.
 
-<p align="center">
+<div align="center">
   <a href="https://wakatime.com/@7b2eeb46-102b-4add-8ea1-b88b7e2e2381">
-    <img src="https://wakatime.com/badge/user/7b2eeb46-102b-4add-8ea1-b88b7e2e2381.svg" alt="wakatime badge" />
+    <img src="https://wakatime.com/badge/user/7b2eeb46-102b-4add-8ea1-b88b7e2e2381.svg?style=for-the-badge" alt="Wakatime Badge">
   </a>
-</p>
+</div>
 
 # 💻 Tech Skills:
 <p align="center">
