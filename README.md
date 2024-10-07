@@ -1,9 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Henrique+Antônio+Guanais+Corneau;I'm+20+years+old;I'm+from+Natal,+RN;I+study+Mechatronics+Engineering+at+UFRN;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 # 💫 About Me:
-Hello! I'm passionate about Python programming, particularly in the realms of machine learning, image detection, and AI. I bring some experience working with OpenCV, TensorFlow, and PyTorch. Additionally, I'm skilled in C++ and have some experience with JavaScript, React, HTML, and CSS.
+Hello! I'm passionate about Python programming, particularly in the realms of machine learning, image detection, and AI. I bring some experience working with OpenCV, TensorFlow, and PyTorch. Additionally, I'm skilled in C++.
 
 <div align="center">
   <a href="https://wakatime.com/@7b2eeb46-102b-4add-8ea1-b88b7e2e2381">
@@ -16,8 +14,6 @@ Hello! I'm passionate about Python programming, particularly in the realms of ma
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
 </p>
 
 # 📊 GitHub Stats:
