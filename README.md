@@ -1,7 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-# 💫 About Me:
-Hello! I'm passionate about Python programming, particularly in the realms of machine learning, image detection, and AI. I bring some experience working with OpenCV, TensorFlow, and PyTorch. Additionally, I'm skilled in C++.
 
 <div align="center">
   <a href="https://wakatime.com/@7b2eeb46-102b-4add-8ea1-b88b7e2e2381">
